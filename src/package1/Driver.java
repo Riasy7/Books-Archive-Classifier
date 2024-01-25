@@ -1,11 +1,10 @@
-// Ahmad Saadawi 40262211
-// COMP249
-// Assignment #1
-// Due Date: 15/10/2023
+// Ahmad Saadawi
 
 // -----------------------------------------------------
-// Assignment 2
-// Written by: Ahmad Saadawi 40262211
+// Books Archive Classifier
+// Written by Ahmad Saadawi
+// Github: https://github.com/Riasy7
+// repo: https://github.com/Riasy7/Books-Archive-Classifier
 // -----------------------------------------------------
 /**
  * This program will sort through a list of files and check for syntax and semantic errors. 
